@@ -1,7 +1,9 @@
 Type: Package
 Package: dspatterns
 Version: 0.0.0.9000
-Title: A Data Science Pattern Language: Designing Projects with R
+Title: A datasets package for the 'dspatterns' book 
+Description: A package that goes along with the book 'A Data Science Pattern
+    Language: Designing Projects with R'.
 Authors@R: c(
     person("Alison", "Hill", , "apresstats@gmail.com", c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8082-1890")),
