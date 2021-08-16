@@ -4,7 +4,11 @@
 \name{dspatterns-package}
 \alias{dspatterns}
 \alias{dspatterns-package}
-\title{dspatterns: A Data Science Pattern Language: Designing Projects with R}
+\title{dspatterns: A datasets package for the 'dspatterns' book}
+\description{
+A package that goes along with the book 'A Data Science Pattern
+    Language: Designing Projects with R'.
+}
 \seealso{
 Useful links:
 \itemize{
